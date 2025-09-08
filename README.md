@@ -71,6 +71,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshPalnati&layout=compact&theme=tokyonight)
 
 
+## 🌟 Contribution Graph
+
+![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-0511&theme=react-dark&hide_border=true&area=true)
+
+
+
 🌱 Currently learning **MLOps, Deep Learning & Generative AI**  
 📫 Reach me at: 
 ## 📫 Connect with Me  
