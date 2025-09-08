@@ -66,11 +66,19 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats  
 
-![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhosh-0511&show_icons=true&theme=radical&hide_border=true&border_radius=20)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Santhosh-0511&theme=tokyonight)  
+
+![GitHub Contributions](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Santhosh-0511&theme=tokyonight&utcOffset=5)  
+ 
+
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Santhosh-0511&theme=tokyonight) 
+
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Santhosh-0511&theme=tokyonight)  
 
 </div>
+
 
 
 ## 🌟 Contribution Graph
