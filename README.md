@@ -76,10 +76,19 @@
 ![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-0511&theme=react-dark&hide_border=true&area=true)
 
 
+<h2 align="left">🤝 Connect with Me</h2>
 
-🌱 Currently learning **MLOps, Deep Learning & Generative AI**  
-📫 Reach me at: 
-## 📫 Connect with Me  
+<p align="center">
+  <a href="mailto:santhoshpalnati11@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/santhosh-palnati-b2b859327/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+
 
 - 📧 Email: [santhoshpalnati11@gmail.com](mailto:santhoshpalnati11@gmail.com)  
 - 💼 LinkedIn: [Santhosh Palnati](https://www.linkedin.com/in/santhosh-palnati-b2b859327/)  
