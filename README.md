@@ -81,9 +81,9 @@
     <td>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Santhosh-0511&theme=tokyonight" />
     </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Santhosh-0511&theme=tokyonight" />
-    </td>
+  ## 🔥 Most Used Languages  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshpalnati&layout=compact&theme=radical&hide_border=true&border_radius=15)
   </tr>
 </table>
 
