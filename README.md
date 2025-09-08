@@ -28,5 +28,10 @@
 ---
 
 🌱 Currently learning **MLOps, Deep Learning & Generative AI**  
-📫 Reach me at: **[Your Email / LinkedIn]**  
+📫 Reach me at: 
+## 📫 Connect with Me  
+
+- 📧 Email: [santhoshpalnati11@gmail.com](mailto:santhoshpalnati11@gmail.com)  
+- 💼 LinkedIn: [Santhosh Palnati](https://www.linkedin.com/in/santhosh-palnati-b2b859327/)  
+
 
