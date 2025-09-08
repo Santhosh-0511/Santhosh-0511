@@ -66,8 +66,9 @@
 
 
 
-# 📊 GitHub Dashboard
+# 📊 GitHub Stats
 <div align="center">
+
 
 <!-- Row 1: Stats -->
 <table>
@@ -78,23 +79,23 @@
   </tr>
 </table>
 
-<!-- Row 2: Contributions + Productive Time -->
+<!-- Row 2: Contributions + Most Used Languages -->
 <table>
   <tr>
-   <td>
+    <td>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Santhosh-0511&theme=tokyonight" />
+    </td>
+    <td>
+      <div align="center">
+        <h2 style="color:#8e44ad;">Most Used Languages</h2>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-0511&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+      </div>
     </td>
   </tr>
 </table>
 
-<!-- Row 3: Languages -->
-<table>
- ## 🎨 Most Used Languages  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-0511&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
-</table>
-
 </div>
+
 
 
 
