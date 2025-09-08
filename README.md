@@ -1,8 +1,13 @@
-# Hi 🤖, I'm [Palnati Santhosh]
+<div align="center">
 
-🚀 Machine Learning Engineer | Data Scientist | AI Enthusiast  
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-**Always curious | Forever learning**
+<h2 style="color:#8e44ad;">👋 Hi, I'm Santhosh — Machine Learning Explorer</h2>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+</div>
+
 
 ---
 
