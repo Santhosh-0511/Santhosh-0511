@@ -81,10 +81,7 @@
 <!-- Row 2: Contributions + Productive Time -->
 <table>
   <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Santhosh-0511&theme=tokyonight&utcOffset=5" />
-    </td>
-    <td>
+   <td>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Santhosh-0511&theme=tokyonight" />
     </td>
   </tr>
@@ -92,14 +89,9 @@
 
 <!-- Row 3: Languages -->
 <table>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Santhosh-0511&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Santhosh-0511&theme=tokyonight" />
-    </td>
-  </tr>
+ ## 🎨 Most Used Languages  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-0511&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
 </table>
 
 </div>
