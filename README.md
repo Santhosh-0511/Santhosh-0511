@@ -64,11 +64,13 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
-## 📈 GitHub Stats  
+<div align="center">
 
-![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanthoshPalnati&show_icons=true&theme=tokyonight)
+### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshPalnati&layout=compact&theme=tokyonight)
+![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhosh-0511&show_icons=true&theme=radical&hide_border=true&border_radius=20)
+
+</div>
 
 
 ## 🌟 Contribution Graph
