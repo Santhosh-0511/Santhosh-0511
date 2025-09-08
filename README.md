@@ -1,13 +1,17 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=8E44AD&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Santhosh+Palnati;Machine+Learning+Enthusiast;AI+%7C+Deep+Learning+%7C+Data+Science;Turning+Ideas+Into+Intelligent+Systems" alt="Typing Animation" />
 
-<h2 style="color:#8e44ad;">👋 Hi, I'm Santhosh — Machine Learning Explorer</h2>
+<!-- Sliding Banner Animation -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<!-- Neural Network Animation (GIF) -->
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" />
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 </div>
-
 
 ---
 
