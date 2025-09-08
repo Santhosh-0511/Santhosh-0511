@@ -64,18 +64,28 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
+
+# 📊 GitHub Stats
 <div align="center">
-
-# 📊 GitHub Stats  
-
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Santhosh-0511&theme=tokyonight)  
-
-![GitHub Contributions](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Santhosh-0511&theme=tokyonight&utcOffset=5)  
- 
-
-![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Santhosh-0511&theme=tokyonight) 
-
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Santhosh-0511&theme=tokyonight)  
+  
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Santhosh-0511&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Santhosh-0511&theme=tokyonight&utcOffset=5" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Santhosh-0511&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Santhosh-0511&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
