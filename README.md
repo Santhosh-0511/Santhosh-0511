@@ -4,7 +4,7 @@
 <h2 style="color:#8E44AD; font-family: Fira Code;">👋 Hi, I am <b>Santhosh Palnati</b></h2>
 
 <!-- Sliding Roles -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8E44AD&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;AI+Explorer;Deep+Learning+Practitioner;Data+Science+Learner;Building+Intelligent+Systems" alt="Sliding Roles Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8E44AD&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Neural+Network+Tinkerer;Open+Source+Contributor+🌍" alt="Sliding Roles Animation" />
 
 </div>
 
@@ -16,7 +16,7 @@
 - 🔭 **Currently working on**: ML model optimization and deployment projects  
 - 🌱 **Learning**: Advanced Deep Learning (Transformers, LLMs) & GenAI  
 - 💬 **Ask me about**: Machine Learning, Python, Deep Learning, Data Science  
-- 📫 **Reach me at**: [your.email@example.com](mailto:santhoshpalnati11@gmai.com)  
+- 📫 **Reach me at**: [santhoshpalnati11@gmail.com](mailto:santhoshpalnati11@gmail.com)  
 - ⚡ **Fun Fact**: My models don’t overfit... they just love training data too much 😅  
 
 ---
