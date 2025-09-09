@@ -24,9 +24,9 @@
 
 
 ## 🛠️ Tech Stack 
- <div style="display: flex; align-items: flex-start;">
+ <div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
-  <!-- Left side (Tech stack) -->
+  <!-- Left side: Tech Stack -->
   <div style="flex: 1;">
 
   ### 🗣️ Languages  
@@ -81,8 +81,8 @@
 
   </div>
 
-  <!-- Right side (GIF) -->
-  <div style="margin-left: 40px;">
+  <!-- Right side: GIF -->
+  <div style="margin-left: 40px; flex-shrink: 0;">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
   </div>
 
