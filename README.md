@@ -1,12 +1,63 @@
-<div align="center">
+<p align="left">
+  <span class="wave">👋</span> Hi, I am <b>Santhosh Palanti</b>
+</p>
 
-<!-- Fixed Name -->
-<h2 style="color:#8E44AD; font-family: Fira Code;">👋 Hi, I am <b>Santhosh Palnati</b></h2>
+<p align="center">
+  <span class="roles">
+    <span>ML Enthusiast</span>
+    <span>Open Source Contributor</span>
+    <span>Neural Network Tinkerer</span>
+  </span>
+</p>
 
-<!-- Sliding Roles -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8E44AD&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Neural+Network+Tinkerer;Open+Source+Contributor" alt="Sliding Roles Animation" />
+<style>
+/* Shake animation for the emoji */
+.wave {
+  display: inline-block;
+  animation: shake 1s infinite;
+}
 
-</div>
+@keyframes shake {
+  0% { transform: rotate(0deg); }
+  10% { transform: rotate(15deg); }
+  20% { transform: rotate(-15deg); }
+  30% { transform: rotate(10deg); }
+  40% { transform: rotate(-10deg); }
+  50% { transform: rotate(5deg); }
+  60% { transform: rotate(-5deg); }
+  70% { transform: rotate(3deg); }
+  80% { transform: rotate(-3deg); }
+  90% { transform: rotate(1deg); }
+  100% { transform: rotate(0deg); }
+}
+
+/* Sliding roles animation */
+.roles {
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: bottom;
+  height: 1.5em;
+}
+
+.roles span {
+  display: block;
+  animation: slide 8s infinite;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.1em;
+  color: #4CAF50; /* Green, you can change */
+}
+
+@keyframes slide {
+  0% { transform: translateY(0); }
+  20% { transform: translateY(-1.5em); }
+  40% { transform: translateY(-3em); }
+  60% { transform: translateY(-4.5em); }
+  80% { transform: translateY(-6em); }
+  100% { transform: translateY(0); }
+}
+</style>
+
 
 
 ---
