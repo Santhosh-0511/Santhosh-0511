@@ -4,7 +4,7 @@
 <h2 style="color:#8E44AD; font-family: Fira Code;">👋 Hi, I am <b>Santhosh Palnati</b></h2>
 
 <!-- Sliding Roles -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8E44AD&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Neural+Network+Tinkerer;Open+Source+Contributor+🌍" alt="Sliding Roles Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8E44AD&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Neural+Network+Tinkerer;Open+Source+Contributor" alt="Sliding Roles Animation" />
 
 </div>
 
