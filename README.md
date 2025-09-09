@@ -25,84 +25,42 @@
 
 ## 🛠️ Tech Stack (ML, AI, and Full-Stack Development)
 
-
-
-### 🔢 Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-
-### 🤖 Machine Learning / Deep Learning
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-
-### 📊 Data Science & Visualization
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-43B02A?style=for-the-badge&logo=python&logoColor=white)
-
-
-### 💻 Frontend
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-
-### 🌐 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-
-### 🧰 Tools & Platforms
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-### 🚀 Web Frameworks / App Hosting
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-
-
-
-# 📊 GitHub Stats
-<div align="center">
-
-
-<!-- Row 1: Stats -->
 <table>
   <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Santhosh-0511&theme=tokyonight" />
-    </td>
-  </tr>
+    <td valign="top" width="70%">
+      
+### 🗣️ Languages  
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java" height="30"/>  
+
+### 🤖 Machine Learning / Deep Learning  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="30"/>  
+<img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height="25"/>  
+
+### 📊 Data Science & Visualization  
+<img src="https://skillicons.dev/icons?i=pandas,numpy" height="30"/>  
+<img src="https://img.shields.io/badge/Matplotlib-ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black" height="25"/>  
+<img src="https://img.shields.io/badge/Seaborn-004d40.svg?style=for-the-badge&logoColor=white" height="25"/>  
+
+### 🎨 Frontend  
+<img src="https://skillicons.dev/icons?i=html,css,js,react" height="30"/>  
+
+### ⚙️ Backend  
+<img src="https://skillicons.dev/icons?i=nodejs" height="30"/>  
+
+### 🛠️ Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=jupyter,vscode,git" height="30"/>  
+
+### 🌐 Web Frameworks / Hosting  
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" height="25"/>  
+
+</td>
+<td valign="top" width="30%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif"/>
+</td>
+</tr>
 </table>
-
-<!-- Row 2: Contributions + Most Used Languages -->
-<table>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Santhosh-0511&theme=tokyonight" />
-    </td>
-    <td>
-      <div align="center">
-        <h2 style="color:#8e44ad;">Most Used Languages</h2>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-0511&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
 
 
 
