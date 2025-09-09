@@ -1,62 +1,12 @@
-<p align="left">
-  <span class="wave">👋</span> Hi, I am <b>Santhosh Palanti</b>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I am Santhosh Palanti
 </p>
 
 <p align="center">
-  <span class="roles">
-    <span>ML Enthusiast</span>
-    <span>Open Source Contributor</span>
-    <span>Neural Network Tinkerer</span>
-  </span>
+  <img src="https://img.shields.io/badge/ML%20Enthusiast-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Neural%20Network%20Tinkerer-orange?style=for-the-badge">
 </p>
-
-<style>
-/* Shake animation for the emoji */
-.wave {
-  display: inline-block;
-  animation: shake 1s infinite;
-}
-
-@keyframes shake {
-  0% { transform: rotate(0deg); }
-  10% { transform: rotate(15deg); }
-  20% { transform: rotate(-15deg); }
-  30% { transform: rotate(10deg); }
-  40% { transform: rotate(-10deg); }
-  50% { transform: rotate(5deg); }
-  60% { transform: rotate(-5deg); }
-  70% { transform: rotate(3deg); }
-  80% { transform: rotate(-3deg); }
-  90% { transform: rotate(1deg); }
-  100% { transform: rotate(0deg); }
-}
-
-/* Sliding roles animation */
-.roles {
-  display: inline-block;
-  overflow: hidden;
-  vertical-align: bottom;
-  height: 1.5em;
-}
-
-.roles span {
-  display: block;
-  animation: slide 8s infinite;
-  text-align: center;
-  font-weight: bold;
-  font-size: 1.1em;
-  color: #4CAF50; /* Green, you can change */
-}
-
-@keyframes slide {
-  0% { transform: translateY(0); }
-  20% { transform: translateY(-1.5em); }
-  40% { transform: translateY(-3em); }
-  60% { transform: translateY(-4.5em); }
-  80% { transform: translateY(-6em); }
-  100% { transform: translateY(0); }
-}
-</style>
 
 
 
